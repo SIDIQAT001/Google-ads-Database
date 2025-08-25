@@ -17,5 +17,15 @@ AdvertiserID **INT** <BR>
 Advertisername VARCHAR <BR>
 Contactperson VARCHAR <BR>
 ContactEmail VARCHAR <BR>
+
+
+##Campaign
+This is the table that stores information from the campaigns. The attributes and data types are as follows: 
+
+CampaignID<br>
+AdvertiserID<br>
+CampaignName<br>
+StartDate<br>
+Budget<br>
 Phonenumber Text<BR>
 
