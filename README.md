@@ -43,3 +43,10 @@ Keywordtext <br>
 Bidamount<br>
 QualityScore <br> 
 
+
+# Performance 
+PerformanceID <br>
+AdID <br>
+Dates <br>
+clicks<br>
+Conversations <br>
